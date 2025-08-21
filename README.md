@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.
 
-## Quick Facts 🧩
+# Quick Facts 🧩
 - I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
 - I'm fluent in Greek and English and proficient in French
 - I'm pretty entrepreneurial and started my own biodegradable makeup startup in High School
