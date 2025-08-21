@@ -8,6 +8,7 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 - I'm pretty entrepreneurial and even started my own biodegradable makeup startup in High School
 - I love hiking and spending time surrounded by nature
 - I really enjoy gastronomy and exploring the Chicago restaurant scene
+- I have a weirdly strong interest in credit cards
 
 ## 👩🏻‍💻 Past Experience
 **Software Engineer Intern @ Qualco**
