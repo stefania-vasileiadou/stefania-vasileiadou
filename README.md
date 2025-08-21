@@ -2,7 +2,7 @@
 
 I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.  
 
-I have previous experience in AI and am intrigued by the possibility of continuing my acceleration in the field. Outside AI, I'm interested in backend development, financial technologies, and infra.
+One sentence I always use to describe myself is that <em>I'm driven by questions I can't answer</em>. 
 
 ## 🧩 Quick Facts 
 - I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
