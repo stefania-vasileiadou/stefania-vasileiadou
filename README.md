@@ -21,5 +21,5 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 - I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
 - I'm fluent in Greek and English and proficient in French
 - I'm pretty entrepreneurial and started my own biodegradable makeup startup in High School
-- I have a keen interest in hiking, which comes from my love for nature and wildlife
+- I love hiking and spending time surrounded by nature
 - I really enjoy gastronomy and exploring restaurants around Chicago
