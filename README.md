@@ -11,7 +11,7 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 - I have a weirdly strong interest in credit cards
 
 ## 👩🏻‍💻 Past Experience
-**Software Engineer Intern @ Qualco**  
+**Software Engineer Intern @ Qualco** (Jul. 2025)  
 Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
 <br>
 
@@ -20,7 +20,7 @@ Tech Stack:
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-**Data Analytics & AI Intern @ Intracom Telecom**  
+**Data Analytics & AI Intern @ Intracom Telecom** (Jul. 2024)  
 Built LSTM-based predictors in PyTorch and TensorFlow to forecast the performance of cells within a 5G antenna network.
 <br>
 
