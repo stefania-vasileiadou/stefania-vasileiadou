@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Stefania (pronounced #Steh-fah-NEE-a#), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.
+
+## Quick Facts 🧩
+- I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
+- I'm fluent in Greek and English and proficient in French
+- I'm pretty entrepreneurial and started my own biodegradable makeup startup in High School
+- I have a keen interest in hiking, which comes from my love for nature and wildlife
+- I really enjoy gastronomy and exploring restaurants around Chicago
