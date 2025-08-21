@@ -9,7 +9,7 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 - I love hiking and spending time surrounded by nature
 - I really enjoy gastronomy and exploring the Chicago restaurant scene
 
-## Past Experience
+## 👩🏻‍💻 Past Experience
 **Software Engineer Intern @ Qualco**
 
 Tech Stack:  
