@@ -12,6 +12,7 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 
 ## 👩🏻‍💻 Past Experience
 **Software Engineer Intern @ Qualco**
+Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
 
 Tech Stack:  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,6 +20,7 @@ Tech Stack:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data Analytics & AI Intern @ Intracom Telecom**
+Built LSTM-based predictors in PyTorch and TensorFlow to forecast the performance of cells within a 5G antenna network. 
 
 Tech Stack:  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
