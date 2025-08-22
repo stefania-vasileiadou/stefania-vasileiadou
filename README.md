@@ -4,6 +4,8 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 
 One sentence I always use to describe myself is that **<em>I'm driven by questions I can't answer</em>**. 
 
+You can reach me via email at stefania[at]u.northwestern.edu
+
 ## 🧩 Quick Facts 
 - I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
 - I'm fluent in Greek and English and proficient in French
