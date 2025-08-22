@@ -25,7 +25,7 @@ Tech Stack:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data Analytics & AI Intern @ Intracom Telecom** (Jul. 2024)  
-Built LSTM-based predictors in PyTorch and TensorFlow to forecast the performance of cells within a 5G antenna network.
+Built LSTM predictors in PyTorch and TensorFlow to forecast the performance of cells within a 5G antenna network.
 <br>
 
 Tech Stack:  
