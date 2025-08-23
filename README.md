@@ -13,7 +13,6 @@ You can reach me via email at stefania[at]u.northwestern.edu
 - I'm fluent in Greek and English and proficient in French
 - I'm pretty entrepreneurial and even started my own biodegradable makeup startup in High School
 - I love hiking and spending time surrounded by nature
-- I really enjoy gastronomy and exploring the Chicago restaurant scene
 - I have a strong interest in credit cards
 
 ## 👩🏻‍💻 Past Experience
