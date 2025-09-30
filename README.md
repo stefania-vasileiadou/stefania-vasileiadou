@@ -41,4 +41,3 @@ Tech Stack:
 ## ⚙️ I'm currently working on...
 - An MCP Server for Google Calendar [🔗](https://github.com/stefania-vasileiadou/gcal-mcp)
 - An OpenMP-based parallel deciphering tool [🔗](https://github.com/stefania-vasileiadou/parallel-cryptanalysis)
-- A Python pipeline for news headline market sentiment analysis [🔗](https://github.com/stefania-vasileiadou/nlp-market-sentiment)
