@@ -2,8 +2,6 @@
 
 I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.  
 
-One sentence I always use to describe myself is that **<em>I'm driven by questions I can't answer</em>**. 
-
 I'm very interested in low-level systems and even TA for the relevant [intro-level course](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/213-20.html) at Northwestern.
 
 You can reach me via email at stefania[at]u.northwestern.edu
