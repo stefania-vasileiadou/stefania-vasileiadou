@@ -38,4 +38,3 @@ Tech Stack:
 
 ## ⚙️ I'm currently working on...
 - An MCP Server for Google Calendar [🔗](https://github.com/stefania-vasileiadou/gcal-mcp)
-- An OpenMP-based parallel deciphering tool [🔗](https://github.com/stefania-vasileiadou/parallel-cryptanalysis)
