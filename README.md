@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.  
+I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>[^1]), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.  
 
-I'm very interested in low-level systems and even TA for the relevant [intro-level course](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/213-20.html) at Northwestern.
+I'm very interested in low-level systems and even TA for the relevant [intro-level course](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/213-20.html) at Northwestern. Generally, I like building fast, performant systems that take advantage of of modern hardware.
 
 You can reach me via email at stefania[at]u.northwestern.edu
 
@@ -38,3 +38,5 @@ Tech Stack:
 
 ## ⚙️ I'm currently working on...
 - An MCP Server for Google Calendar [🔗](https://github.com/stefania-vasileiadou/gcal-mcp)
+
+[^1]: Commonly confused with Stefánia, though I'm not Polish or Italian!
