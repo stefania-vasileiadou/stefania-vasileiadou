@@ -7,7 +7,7 @@ I'm very interested in low-level programming and even TA for the relevant [intro
 You can reach me via email at stefania[at]u.northwestern.edu
 
 ## 🧩 Quick Facts 
-- I'm originally from Athens, Greece, and I have heritage from the island on which the Odyssey is based
+- I'm originally from Athens, Greece, and I have heritage from the island the Odyssey is based on 
 - I'm fluent in Greek and English and proficient in French
 - I'm pretty entrepreneurial and even started my own biodegradable makeup startup in High School
 - I love hiking and spending time surrounded by nature
