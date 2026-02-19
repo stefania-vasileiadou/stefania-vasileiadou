@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Stefania (pronounced <em>Steh-fah-NEE-a</em> [^1]), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a dual degree in Computer Engineering and Computer Science.  
+I'm Stefania (pronounced <em>Steh-fah-NEE-a</em> [^1]), and I'm working towards a career in Software Development. Currently, I am a Junior at [Northwestern University](https://www.mccormick.northwestern.edu/), pursuing a degree in Computer Engineering.  
 
 I'm very interested in low-level programming and even TA for the relevant [intro-level course](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/213-20.html) at Northwestern. Generally, I like building fast, performant systems that take advantage of of modern hardware.
 
