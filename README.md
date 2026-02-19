@@ -8,7 +8,7 @@ You can reach me via email at stefania[at]u.northwestern.edu
 
 ## 👩🏻‍💻 Work Experience
 **Software Engineer Intern @ Netflix** (Jun. - Sep. 2026)  
-Stay tuned 🍿
+Resilience and Chaos Team; helping teams understand the impact of their changes.
 
 **Software Engineer Intern @ Qualco** (Jul. 2025)  
 Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
