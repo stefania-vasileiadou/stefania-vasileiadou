@@ -6,13 +6,6 @@ I'm very interested in low-level programming and even TA for the relevant [intro
 
 You can reach me via email at stefania[at]u.northwestern.edu
 
-## 🧩 Quick Facts 
-- I'm originally from Athens, Greece, and I have heritage from the island the Odyssey is based on 
-- I'm fluent in Greek and English and proficient in French
-- I'm pretty entrepreneurial and even started my own biodegradable makeup startup in High School
-- I love hiking and spending time surrounded by nature
-- I have a strong interest in credit cards
-
 ## 👩🏻‍💻 Past Experience
 **Software Engineer Intern @ Qualco** (Jul. 2025)  
 Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
