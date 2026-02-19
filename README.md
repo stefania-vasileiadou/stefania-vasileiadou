@@ -6,7 +6,10 @@ I'm very interested in low-level programming and even TA for the relevant [intro
 
 You can reach me via email at stefania[at]u.northwestern.edu
 
-## 👩🏻‍💻 Past Experience
+## 👩🏻‍💻 Work Experience
+**Software Engineer Intern @ Netflix** (Jun. - Sep. 2026)  
+Stay tuned 🍿
+
 **Software Engineer Intern @ Qualco** (Jul. 2025)  
 Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
 <br>
