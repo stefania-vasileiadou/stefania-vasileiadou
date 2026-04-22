@@ -32,4 +32,4 @@ Built LSTM predictors in PyTorch and TensorFlow to forecast the performance of c
 ## ⚙️ I'm currently working on...
 - An MCP Server for Google Calendar [🔗](https://github.com/stefania-vasileiadou/gcal-mcp)
 - A UNIX Shell in C [🔗](https://github.com/stefania-vasileiadou/seashell)
-- A multithreaded Monte Carlo Options Trader [🔗](https://github.com/stefania-vasileiadou/parallel-mcop)
+- A multithreaded Monte Carlo Options Pricer [🔗](https://github.com/stefania-vasileiadou/parallel-mcop)
