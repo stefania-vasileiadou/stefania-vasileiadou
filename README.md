@@ -5,31 +5,3 @@ I'm Stefania (pronounced <em>Steh-fah-NEE-a</em>), and I'm working towards a car
 I'm very interested in low-level programming and even [TA](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2026/northwestern-cs-announces-spring-2026-outstanding-teaching-assistants-and-peer-mentors.html) for the relevant [intro-level course](https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/213.html) at Northwestern. Generally, I like building fast, performant systems that take advantage of modern hardware.
 
 You can reach me via email at stefania[at]u.northwestern.edu
-
-## 👩🏻‍💻 Work Experience
-**Software Engineer Intern @ Netflix** (Jun. - Sep. 2026)  
-<em>Resilience and Chaos Engineering</em>; helping teams understand the impact of their changes.
-
-**Software Engineer Intern @ Qualco** (Jul. 2025)  
-Part of the <em>Strategic Projects Team</em>, developed an MCP server for [Apache Superset](https://superset.apache.org/) and integrated 40+ tools through a CLI chatbot using the Groq API.
-<br>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-**Data Analytics & AI Intern @ Intracom Telecom** (Jul. 2024)  
-Built LSTM predictors in PyTorch and TensorFlow to forecast the performance of cells within a 5G antenna network.
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-
-## ⚙️ I'm currently working on...
-- An MCP Server for Google Calendar [🔗](https://github.com/stefania-vasileiadou/gcal-mcp)
-- A UNIX Shell in C [🔗](https://github.com/stefania-vasileiadou/seashell)
-- A multithreaded Monte Carlo Options Pricer [🔗](https://github.com/stefania-vasileiadou/parallel-mcop)
